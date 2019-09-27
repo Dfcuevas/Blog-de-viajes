@@ -115,7 +115,9 @@ h2 {
 }
 
 /* sidebar */ 
-
+.sidebar {
+  text-align: center;
+}
 .sidebar ul{
   list-style: none;
   padding: 0;
